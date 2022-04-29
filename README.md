@@ -1,6 +1,6 @@
 # Can We Predict Left-Handedness from Psychological Factors?
 
-![A left-hand with 'I'm a lefty' written on it](https://imgur.com/BhrAgSx.jpg)
+![A left-hand with 'I'm a lefty' written on it](https://imgur.com/BhrAgSx.jpg)<br>
 (Well, not me, but the owner of the hand in the photo appears to be!)
 
 We can sketch out the data science process as follows:
